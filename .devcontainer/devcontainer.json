@@ -6,4 +6,17 @@
 
   "remoteUser": "codespace",
   "overrideCommand": false
+  ,
+  // 添加你想在容器创建时安装的扩展的 IDs
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Github.copilot"
+      ]
+    },
+  "codespaces": {
+      "openFiles": [
+        "codespace.md"
+      ]
+    }
 }
