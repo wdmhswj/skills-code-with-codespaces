@@ -14,9 +14,10 @@
         "Github.copilot"
       ]
     },
-  "codespaces": {
-      "openFiles": [
-        "codespace.md"
-      ]
-    }
+    "codespaces": {
+        "openFiles": [
+          "codespace.md"
+        ]
+      }
+  }
 }
